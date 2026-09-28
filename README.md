@@ -1,2 +1,4 @@
 # primer_repositori
-El meu primer repositori
+Projecte 2  
+Noah Rodriguez  
+2B SMX
