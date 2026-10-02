@@ -1,5 +1,5 @@
 ## CONFIGURARÓ D'UNA XARXA LOCAL PETITA
-<img src="/Imatges/Imatge xarxa petita.png" alt="Esquema de la xarxa" width="500">
+![imatge local](/Imatges/Imatge%20xarxa%20petita.png)
 
 ## Objectiu
 Configurar una xarxa local entre dos ordinadors, assignant una adreça IP a cada equip i comprovant que es poden comunicar correctament.
@@ -12,7 +12,7 @@ Configurar una xarxa local entre dos ordinadors, assignant una adreça IP a cada
 - Comanda ipconfig i ping.
 
 ## Esquema de la xarxa
-<img src="/Imatges/Imatge xarxa dos equips.png" alt="Esquema de la xarxa" width="500">
+![imatge local](/Imatges/Imatge%20xarxa%20dos%20equips.png)
 
 ## Procediment
 
