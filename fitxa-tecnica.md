@@ -1,10 +1,15 @@
+# Document Heading
+
 ## CONFIGURARÓ D'UNA XARXA LOCAL PETITA
+
 ![imatge local](/Imatges/Imatge%20xarxa%20petita.png)
 
 ## Objectiu
+
 Configurar una xarxa local entre dos ordinadors, assignant una adreça IP a cada equip i comprovant que es poden comunicar correctament.
 
 ## Materials
+
 - 2 ordinadors.
 - 2 cables de xarxa Ethernet.
 - Un switch.
@@ -12,6 +17,7 @@ Configurar una xarxa local entre dos ordinadors, assignant una adreça IP a cada
 - Comanda ipconfig i ping.
 
 ## Esquema de la xarxa
+
 ![imatge local](/Imatges/Imatge%20xarxa%20dos%20equips.png)
 
 ## Procediment
@@ -34,6 +40,7 @@ Configurar una xarxa local entre dos ordinadors, assignant una adreça IP a cada
 - [ ] El ping rep resposta correctame
 
 ## Comanda
+
 ```bash
 ipconfig
 ```
@@ -46,7 +53,6 @@ ipconfig
 | No apareix connexió Ethernet | Comprovar que el cable està ben connectat.                         |
 | La IP no és correcta         | Revisar la configuració IPv4 de l’ordinador.                       |
 | El switch no mostra connexió | Comprovar el cable i el port utilitzat.                            |
-
 
 ## Recursos
 
