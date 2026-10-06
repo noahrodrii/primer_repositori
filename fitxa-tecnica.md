@@ -1,6 +1,4 @@
-# Document Heading
-
-## CONFIGURARÓ D'UNA XARXA LOCAL PETITA
+# CONFIGURARÓ D'UNA XARXA LOCAL PETITA
 
 ![imatge local](/Imatges/Imatge%20xarxa%20petita.png)
 
